@@ -64,7 +64,7 @@ I’m a **Mid-Level Software Engineer** from Belo Horizonte, Brazil 🇧🇷, pa
 - [GitHub](https://github.com/RafaDevTech)
 - [LinkedIn](https://www.linkedin.com/in/rafael-g-8171b7356/)
 - **Email:** rafael.segala45@gmail.com
-- **Location:** Belo Horizonte, Brazil
+- **Location:** Brazil
 
 ---
 
